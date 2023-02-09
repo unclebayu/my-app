@@ -1,0 +1,43 @@
+
+.App {
+  text-align: center;
+  padding: 30px;
+  margin-top: 10px;
+  margin: 0 auto;
+}
+.title-section{
+  text-align: left;
+  border-bottom: 3px solid;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.custom-box{
+  padding: 30px;
+  align-items: center;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.Custom-checkbox{
+  text-align: left;
+  border-bottom: 1px solid;
+  padding: 20px;
+  font-size: 20px;
+
+}
+button{
+  align-items: center;
+  color: #ffff;
+  background-color: blue;
+  margin-top: 20px;
+  padding: 20px;
+  width:100%;
+  font-size: 20px;
+}
+button:hover{
+  background-color: red;
+}
+
+.now-section{
+  font-weight: 10px;
+  text-align: left;
+  font-size: 18px;
+}
